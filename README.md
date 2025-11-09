@@ -103,16 +103,16 @@ plt.show()
 ![Gráfico adicional 1](download.png)
 
 ### Depois
-![Gráfico adicional 2](./imagens/download2.png)
+![Gráfico adicional 2](download2.png)
 
 ## 📸 Exemplos de Dashboards
 
 ### 🔹 Página Python
-![Dashboard Python](./imagens/b5eaee51-92f1-4753-8681-08af4db1239c.png)
+![Dashboard Python](b5eaee51-92f1-4753-8681-08af4db1239c.png)
 
 ### 🔹 Página Python 2
-![Dashboard Python 2](./imagens/46c28b54-ec7b-4376-82a7-a2760f09d00c.png)
+![Dashboard Python 2](46c28b54-ec7b-4376-82a7-a2760f09d00c.png)
 
 ### 🔹 Página Página 2
-![Dashboard Página 2](./imagens/9581742e-Offf-4b23-a718-8d57063d0386.png)
+![Dashboard Página 2](9581742e-Offf-4b23-a718-8d57063d0386.png)
 

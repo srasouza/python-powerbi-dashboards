@@ -13,10 +13,6 @@ O arquivo [Python_powerbi.pbix](https://animaedu-my.sharepoint.com/:u:/r/persona
 
 Esses visuais permitem gerar análises estatísticas, dispersões, distribuições e correlações usando **matplotlib** e **seaborn** diretamente dentro do Power BI.
 
-## 🧠 Sobre o Projeto
-
-O objetivo deste projeto é demonstrar como o **Python pode ampliar o poder analítico do Power BI**, permitindo criar gráficos estatísticos, explorar distribuições, relações entre variáveis e análises mais avançadas.
-
 Foram utilizados scripts Python para gerar **8 visualizações**, incluindo:
 
 As páginas incluem gráficos como:

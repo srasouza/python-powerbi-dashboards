@@ -34,17 +34,19 @@ As páginas incluem gráficos como:
 
 ---
 ## 📁 Estrutura do Repositório
+```
 Python_PowerBI/
 │
 ├── dashboards/
-│ └── [Python_powerbi.pbix](https://animaedu-my.sharepoint.com/:u:/r/personal/86475340502_ulife_com_br/Documents/Python_powerbi.pbix?csf=1&web=1&e=E3DitN)
+│   └── Python_powerbi.pbix
 │
 ├── imagens/
-│ ├── Página Python 1
-│ ├── Página Python 2
-│ └── Página Python 3
+│   ├── pagina_python_1.png
+│   ├── pagina_python_2.png
+│   └── pagina_python_3.png
 │
 └── README.md
+```
 
 ## 🚀 Como Usar
 

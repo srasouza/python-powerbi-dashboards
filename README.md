@@ -9,7 +9,8 @@ Este repositório contém um projeto de Business Intelligence (BI) desenvolvido 
 ---
 ## 🧠 Sobre o Projeto
 
-O arquivo [Python_powerbi.pbix](https://animaedu-my.sharepoint.com/:u:/r/personal/86475340502_ulife_com_br/Documents/Python_powerbi_finalizado.pbix?csf=1&web=1&e=l15kmF) contém **dashboards interativos** e páginas com visuais criados a partir de **scripts Python**.
+O arquivo [📥 Baixar dashboard completo (.pbix)](dashboards/Python_powerbi_finalizado.pbix)
+ contém **dashboards interativos** e páginas com visuais criados a partir de **scripts Python**.
 
 Esses visuais permitem gerar análises estatísticas, dispersões, distribuições e correlações usando **matplotlib** e **seaborn** diretamente dentro do Power BI.
 

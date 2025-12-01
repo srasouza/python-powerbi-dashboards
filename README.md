@@ -98,7 +98,7 @@ Quando aparecer a mensagem “Successfully installed”, significa que as biblio
 
 Após a instalação, abra o Power BI e adicione um visual de Script Python.
 Cole o código abaixo para confirmar se está tudo funcionando:
-
+```
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -107,7 +107,7 @@ plt.figure(figsize=(5,3))
 sns.scatterplot(x="Venda", y="Lucro", data=dataset)
 plt.title("Teste de Integração Python + Power BI")
 plt.show()
-
+```
 
 Se o gráfico aparecer corretamente, o ambiente Python está configurado com sucesso 🎉
 

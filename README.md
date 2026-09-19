@@ -9,7 +9,7 @@ Este repositório contém um projeto de Business Intelligence (BI) desenvolvido 
 ---
 ## 🧠 Sobre o Projeto
 
-O [arquivo](Python_powerb_finalizado.pbix)* contém **dashboards interativos** e páginas com visuais criados a partir de **scripts Python**.
+O [arquivo](https://animaedu-my.sharepoint.com/:u:/r/personal/86475340502_ulife_com_br/Documents/Python_powerb_finalizado.pbix?d=w57effb8a5c0c4ae1b96fc634c68007b8&csf=1&web=1&e=4NvjgU)* contém **dashboards interativos** e páginas com visuais criados a partir de **scripts Python**.
 
 *Pra baixar clique na seta ⬇️ no canto direito.
 
